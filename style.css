@@ -1,0 +1,23 @@
+h1{
+ text-align: center;
+color: darkred;
+
+}
+.table{
+	align-content: center;
+	text-align: center}
+	body{
+		background-color: grey;
+	}
+	#amount1,#amount2,#final{
+		color: black;
+		font-weight: 400;
+		font-size: max(38, 25);
+		background-color: white;
+	}
+#subtot{
+	background-color: lightskyblue;
+	font-weight: 600;
+	font-size: max(50, 50);
+	width: fit-content;
+}
